@@ -1,2 +1,2 @@
-# Sentiment-Analysis-using-DTMatrix-SVD-and-other-ML-Algorithms
+# Sentiment-Analysis-of-Tweets-using-DTMatrix-SVD-and-other-ML-Algorithms
 The challenge is to obtain Ten-fold cross validation auc score more than 0.803.  The approach i have taken is to first clean the tweets, spelling correction, lemmatization, stop words removal, creating document term matrix (since all frequent words already have been removed) , dimensionality reduction and then finally fitting ML Algorithm. These approaches are pretty naive. With this approach i could reach to 0.775 10-fold cross validation auc score. 
